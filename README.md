@@ -1,2 +1,5 @@
 # RESTful-web-service-with-Spring
- implement and display a database of players. The structure of the web application is more than just HTML pages. There needs to be  a database table with player data a web service that can send a list of those players, in JSON form, in response to the URL /players a web page that can display the desired list in a readable way, using JavaScript to get the data and construct the HTML
+
+RESTful web service with Spring.  With a web browser, you can retrieve and create data in JSON form.
+
+Implementation and display of a database of players. A database table with player data a web service that can send a list of those players, in JSON form, in response to the URL /players a web page that can display the desired list in a readable way, using JavaScript to get the data and construct the HTML.
